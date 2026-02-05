@@ -22,13 +22,13 @@ This folder contains assignments and personal implementations of core DL concept
 
 
 ### 2. Everyone's Deep Learning (모두의 딥러닝)
-**Focus:** Building the mathematical foundations.
+**Focus:** Building the mathematical foundations. [Reference: Official Source Code](https://github.com/taehojo/deeplearning)
 * Understanding Backpropagation from scratch.
 * Basic Keras implementations for regression and classification.
 
 
 ### 3. Big Data Analysis & AI Development (Winspec/NCS)
-**Provider:** Winspec (NCS Certified) | **Period:** [Insert Your Period, e.g., Jan 2024 - Mar 2024]
+**Provider:** Winspec (NCS Certified) | **Period:** [Mar 2026 - Mar 2026]
 
 **Focus:** Comprehensive data science pipeline from data acquisition to ML model deployment.
 * **Data Science Stack:** Mastered **Pandas/Numpy** for complex data manipulation (preprocessing, cleaning) and **Matplotlib/Seaborn** for EDA (Exploratory Data Analysis).
