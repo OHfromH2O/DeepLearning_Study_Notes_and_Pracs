@@ -13,37 +13,38 @@ My goal is to master the implementation of Neural Networks (CNNs, RNNs) and appl
 ---
 
 ## 📚 Key Curriculum & Projects
-
-### 1. Deep Learning Specialization (Coursera) [Image of neural network architecture]
+### 1. Deep Learning Specialization (Coursera) 
 **Provider:** DeepLearning.AI (Andrew Ng) | **Period:** Oct 2024 – Dec 2024
 
 This folder contains assignments and personal implementations of core DL concepts.
 * **Applied Deep Learning:** Implemented the architecture of **CNNs** (for imaging) and **RNNs** (for sequence data) using **TensorFlow** to extract insights from large-scale biological data.
 * **Model Optimization:** Executed systematic **hyperparameter tuning**, regularization (Dropout/Batch Norm), and structured error analysis to improve model performance and generalization.
 
-### 2. Deep Learning for the Life Sciences (O'Reilly) [Image of DNA double helix]
+
+### 2. Everyone's Deep Learning (모두의 딥러닝)
+**Focus:** Building the mathematical foundations.
+* Understanding Backpropagation from scratch.
+* Basic Keras implementations for regression and classification.
+
+
+### 3. Big Data Analysis & AI Development (Winspec/NCS)
+**Provider:** Winspec (NCS Certified) | **Period:** [Insert Your Period, e.g., Jan 2024 - Mar 2024]
+
+**Focus:** Comprehensive data science pipeline from data acquisition to ML model deployment.
+* **Data Science Stack:** Mastered **Pandas/Numpy** for complex data manipulation (preprocessing, cleaning) and **Matplotlib/Seaborn** for EDA (Exploratory Data Analysis).
+* **Machine Learning:** Applied classical ML algorithms (SVM, Random Forest, XGBoost) using **Scikit-learn** to solve classification and regression problems.
+* **Practical Implementation:** Conducted end-to-end projects involving web crawling, data visualization, and predictive modeling.
+
+
+### 4. Deep Learning for the Life Sciences (O'Reilly) 
 **Focus:** Applying deep learning to genomics, microscopy, and drug discovery.
 * **DeepChem:** Utilizing the DeepChem library for molecular property prediction.
 * **Projects:**
     * Molecular toxicity prediction.
     * Protein binding affinity estimation.
 
-### 3. Everyone's Deep Learning (모두의 딥러닝)
-**Focus:** Building the mathematical foundations.
-* Understanding Backpropagation from scratch.
-* Basic Keras implementations for regression and classification.
 
-### 4. Kaggle Practicals
+### 5. Kaggle Practicals
 **Focus:** Real-world data handling and competition practice.
 * **Data Preprocessing:** Handling missing values, normalization, and augmentation.
 * **Projects:** [List a specific Kaggle project here, e.g., Titanic or Pneumonia Detection]
-
----
-
-## 📂 Repository Structure
-```bash
-├── 01_Coursera_DL_Specialization/   # CNNs, RNNs, Optimization techniques
-├── 02_Bio_AI_OReilly/               # DeepChem, MoleculeNet projects
-├── 03_Everyones_Deep_Learning/      # Foundation code (Keras/Math)
-├── 04_Kaggle_Practicals/            # Datasets and Notebooks
-└── utils/                           # Helper scripts for data visualization
